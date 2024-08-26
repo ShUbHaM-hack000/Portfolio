@@ -6,6 +6,9 @@ import About from "./Pages/About";
 import Contact from "./Pages/Contact";
 import Projects from "./Pages/Project";
 
+
+
+
 const App = () => {
   return (
     <>
@@ -14,6 +17,7 @@ const App = () => {
       <About />
       <Projects />
       <Contact />
+      
     </>
   )
 }
